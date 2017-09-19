@@ -263,4 +263,7 @@
     <!-- Maintainer -->
     <string name="maintainer_title">Device Maintainer</string>
     <string name="device_maintainer">Shekhawat2</string>
+
+    <!-- Local (desktop) backup password menu title [CHAR LIMIT=25] -->
+    <string name="local_backup_password_title">Desktop backup password</string>
 </resources>
