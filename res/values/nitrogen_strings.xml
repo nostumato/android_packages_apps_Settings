@@ -291,4 +291,7 @@
 
     <string name="ambient_visualizer_title">Visualizer on Ambient Display</string>
     <string name="ambient_visualizer_summary">Displays a spectrum bars on Ambient Display while music is playing</string>
+    <!-- Ambient Display Brightness -->
+    <string name="ambient_doze_auto_brightness_title">Ambient and LiftToWake auto brightness</string>
+    <string name="ambient_doze_auto_brightness_summary">Use last screen-on adaptive brightness value for Ambient Display or Lift to Wake screen</string>
 </resources>
