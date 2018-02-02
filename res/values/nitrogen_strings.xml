@@ -259,4 +259,8 @@
     <string name="night_bright_minimum">Minimum brightness</string>
     <string name="night_bright_low">Low brightness</string>
     <string name="night_bright_medium">Medium brightness</string>
+
+    <!-- Maintainer -->
+    <string name="maintainer_title">Device Maintainer</string>
+    <string name="device_maintainer">Shekhawat2</string>
 </resources>
