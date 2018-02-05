@@ -46,6 +46,12 @@
             android:title="@string/doze_title"
             android:summary="@string/doze_summary" />
 
+        <com.nitrogen.settings.preferences.SystemSettingSwitchPreference
+            android:key="ambient_visualizer"
+            android:title="@string/ambient_visualizer_title"
+            android:summary="@string/ambient_visualizer_summary"
+            android:defaultValue="false"/>
+
         <ListPreference
             android:key="force_ambient_for_media"
             android:title="@string/force_ambient_for_media_pref_title"

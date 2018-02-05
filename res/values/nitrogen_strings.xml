@@ -289,4 +289,6 @@
     <!-- [CHAR LIMIT=160]-->
     <string name="fp_swipe_to_dismiss_notifications_summary">To dismiss your notifications, swipe left or right on the fingerprint sensor on the back of your phone.</string>
 
+    <string name="ambient_visualizer_title">Visualizer on Ambient Display</string>
+    <string name="ambient_visualizer_summary">Displays a spectrum bars on Ambient Display while music is playing</string>
 </resources>
